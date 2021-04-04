@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/ChainSafe/blst-ts#readme",
   "devDependencies": {
-    "@chainsafe/lodestar-spec-test-util": "^0.18.0",
+    "@dapplion/lodestar-spec-test-util": "^0.18.2",
     "@types/chai": "^4.2.13",
     "@types/mocha": "^8.0.3",
     "@types/node": "^14.11.5",
